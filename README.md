@@ -1,1 +1,2 @@
 # odin-recipes
+The current project i will be working on is a recipes page for all my favourite recipes. in this project i will be demonstrating my html skills such as how to link pages, how to make lists and how to add images to my webpage
